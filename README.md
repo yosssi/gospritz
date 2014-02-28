@@ -19,7 +19,7 @@ $ gospritz -w WPM(WORDS PER MINUTE) FILEPATH
 
 ## Example
 
-```
+```sh
 $ cd $GOPATH/src/github.com/yosssi/gospritz
 $ gospritz -w 250 ./sample.txt
 ```
